@@ -6,16 +6,17 @@ Setup steps:
 
 Prerequisites:
 
-Installed tempest virtual environment.
 # git clone tempest upstream code
+
 git clone https://github.com/openstack/tempest.git
+
 cd tempest
 
 # git clone plugin code
 
 git clone https://github.com/bkopilov/tempest_storage_plugin.git
 
-cd tempest-storage-plugin/tempest_plugin
+cd tempest_storage_plugin/tempest_plugin
 
 # install python packages
 

@@ -13,7 +13,7 @@ cd tempest
 
 # git clone plugin code
 
-git clone https://github.com/bkopilov/tempest-storage-plugin.git
+git clone https://github.com/bkopilov/tempest_storage_plugin.git
 
 cd tempest-storage-plugin/tempest_plugin
 
